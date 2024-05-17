@@ -32,6 +32,8 @@ Retrieval-Augmented Generation (RAG) is a hybrid model combining the powers of r
     ```bash
      pip install -r requirements.txt
 4. Run db_extract.py
-    ``` python db_extract.py
+    ```bash
+     python db_extract.py
 5. Run rag.py
-    ``` pyhotn rag.py
+    ```bash
+     pyhotn rag.py
