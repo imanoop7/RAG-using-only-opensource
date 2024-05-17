@@ -1,6 +1,5 @@
 # OpenRAGTech
-
-OpenRAGTech is an open-source initiative to create a Retrieval-Augmented Generation (RAG) system leveraging the best of open-source technologies.
+Retrieval-Augmented Generation (RAG) system leveraging the best of open-source technologies.
 
 ## What is RAG?
 
